@@ -1,0 +1,92 @@
+#+TITLE: \Huge Ronnie \textsc{Nissan}
+#+OPTIONS: toc:nil num:nil date:nil author:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{titlesec} % Used to customize the \section command
+#+LATEX_HEADER: \titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
+#+LATEX_HEADER: \titlespacing{\section}{0pt}{15pt}{15pt} % Spacing around sections
+#+Latex_header: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{nopageno}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \setlength{\droptitle}{-3cm}
+#+LATEX_HEADER: \setlength{\tabcolsep}{2em}
+#+LATEX_HEADER: \titleformat{\subsection}{\bf\scshape\raggedright}{}{0em}{}
+
+\vspace{-15ex}
+* Personal
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
+#+ATTR_LATEX::environment :align p{10em}|l :booktabs :center nil
+| \textsc{Date of Birth} | Nov 11, 1991               |
+| \textsc{Address}       | Duhok/Dabin1/B4/Apt No 10  |
+| \textsc{Phone}         | +964 (750) 722 8510        |
+| \textsc{Email}         | [[mailto:christopherackerman104@gmail.com][=ronni.n.yousif@gmail.com=]] |
+
+
+* Work Experience
+
+** Coordinator---Nujeen NFDO \hfill July-2016 – November 2016
+
+\noindent Helped the project teams manage resources and
+information and assist with scheduling and planning
+meetings and project activities. As will as report writing
+and IT requirements of the projects
+Project Manager Assistant
+IEH INGO
+Duhok, Duhok
+December-2016 – February 2017
+
+** Project Manager Assistant---IEH INGO \hfill December-2016 – February 2017
+
+\noindent Worked directly with the Project manager to ensure smooth
+operation of the project team and made the necessary calls
+
+** Accountant---Serkeft Co. \hfill July-2017 – August 2018
+
+\noindent Data entry and transaction management and review.
+Writing monthly and yearly reports to the Company's
+
+** Family Visitor---JRS INGO \hfill September-2018 – March-2019
+
+\noindent Visiting IDP families in Sharia collective and the
+surrounding villages as will as data entry and report
+writing and success story writing for the MHPSS cases.
+
+** Reporting Officer/Translator---Harikar NGO \hfill March-2019 - December-2020
+
+*** TODO Filling Harikar job descreption
+
+* Education
+
+
+#+ATTR_LATEX::environment :align p{10em}|l :booktabs :center nil
+|      2015-2016 | Bachelor in English Language and Literature University of Zakho |
+|                |                                                                 |
+| *Certificates* | Social media, photography and---WHO                             |
+|                | Case Management training---NCA                                  |
+|                | TODO Put the other certs                                        |
+
+\newpage
+* Computer Skills
+
+
+#+ATTR_LATEX::environment :align p{10em}|l :booktabs :center nil
+| Microsoft Office Suite | Word, Excel and PowerPoint      |
+| Fast typist            | around 40 words per minute      |
+| Operating systems      | Windows, Mac OS and Linux       |
+| Front end web          | HTML, CSS, JavaScript and React |
+| Scripting Languages    | Bash and JavaScript, Python     |
+| Markup Languages       | Latex, Markdown and HTML        |
+
+* Languages
+
+
+#+ATTR_LATEX::environment :align p{10em}|l :booktabs :center nil
+| English          | Fluent                       |
+| Arabic           | Fluent                       |
+| Kurdish          | Very good                    |
+| Syriac           | Very good                    |
+|                  |                              |
+| *Interpretation* | Simultaneous and Consecutive |
